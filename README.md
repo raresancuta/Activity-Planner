@@ -30,4 +30,4 @@ A user interface (UI) application developed in C++ for organizing and managing a
 - **C++ Compiler**: Ensure you have a C++ compiler (e.g., GCC or Clang).
 - **GUI Framework**: QT Framework
 
-### Project made with Visual Studio Code and QT Framework
+### Project made with Visual Studio and QT Framework
